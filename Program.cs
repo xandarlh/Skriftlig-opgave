@@ -10,7 +10,11 @@ namespace Skriftlig_opgave
     {
         static void Main(string[] args)
         {
+            Ballsport ballsport = new Ballsport("Soccer","","Hand","Football");
             
+            Console.WriteLine(ballsport.Name+" "+ballsport.BallType);
+            Console.ReadLine();
+             
         }
     }
 }
