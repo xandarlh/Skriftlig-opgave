@@ -10,6 +10,7 @@ namespace Skriftlig_opgave
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
